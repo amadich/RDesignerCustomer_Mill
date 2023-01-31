@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RDesignerCustomer_Mill/static/css/main.84caddd2.css",
+    "main.js": "/RDesignerCustomer_Mill/static/js/main.2cca24e7.js",
+    "static/media/971.png": "/RDesignerCustomer_Mill/static/media/971.24fb306b94f254f47945.png",
+    "index.html": "/RDesignerCustomer_Mill/index.html",
+    "main.84caddd2.css.map": "/RDesignerCustomer_Mill/static/css/main.84caddd2.css.map",
+    "main.2cca24e7.js.map": "/RDesignerCustomer_Mill/static/js/main.2cca24e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84caddd2.css",
+    "static/js/main.2cca24e7.js"
+  ]
+}
